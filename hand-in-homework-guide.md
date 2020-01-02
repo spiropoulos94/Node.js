@@ -2,7 +2,7 @@
 
 In this module you'll submit your homework only using GIT and GitHub.
 
-1. [GitHub](https://www.github.com/HackYourFuture/Node.js)
+1. [GitHub](https://www.github.com/SocialHackersCodeSchool/Node.js)
 
 ## 1. GitHub homework guide
 
