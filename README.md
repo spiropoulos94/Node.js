@@ -46,7 +46,7 @@ Verify the installation by running `node -v` (-v is short for version) from the 
 Did you finish the module? You're a rockstar!
 
 If you feel ready for the next challenge, click [here](https://www.github.com/SocialHackersCodeSchool/databases) to go to Databases!
-##Credit:
+## Credit:
 This curriculum is developed by HackYourFuture, modifications, and changes can be found in this Fork. (edited) 
 
 
