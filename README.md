@@ -1,6 +1,6 @@
 > If you are following the HackYourFuture curriculum we recommend you to start with module 1: [HTML/CSS/GIT](https://github.com/HackYourFuture/HTML-CSS). To get a complete overview of the HackYourFuture curriculum first, click [here](https://github.com/HackYourFuture/curriculum).
 
-> Please help us improve and share your feedback! If you find better tutorials or links, please share them by [opening a pull request](https://github.com/HackYourFuture/JavaScript1/pulls).
+> Please help us improve and share your feedback! If you find better tutorials or links, please share them by [opening a pull request](https://github.com/SocialHackersCodeSchool/JavaScript1/pulls).
 
 # Module #5 - Understand backend: creating web servers with JavaScript using Node.js (Backend)
 
@@ -47,8 +47,9 @@ Verify the installation by running `node -v` (-v is short for version) from the 
 
 Did you finish the module? You're a rockstar!
 
-If you feel ready for the next challenge, click [here](https://www.github.com/HackYourFuture/databases) to go to Databases!
+If you feel ready for the next challenge, click [here](https://www.github.com/SocialHackersCodeSchool/databases) to go to Databases!
+##Credit:
+This curriculum is developed by HackYourFuture, modifications, and changes can be found in this Fork. (edited) 
 
-_The HackYourFuture curriculum is subject to CC BY copyright. This means you can freely use our materials, but just make sure to give us credit for it :)_
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
