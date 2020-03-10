@@ -19,5 +19,6 @@
   "homepage": "https://github.com/spiropoulos94/Node.js#readme",
   "dependencies": {
     "left-pad": "^1.3.0"
-  }
+  },
+  "devDependencies": {}
 }
