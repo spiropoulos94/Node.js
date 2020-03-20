@@ -9,11 +9,12 @@ app.set('view engine', 'handlebars');
 app.engine('handlebars', exphbs({ defaultLayout: 'main' }));
 
 
+
 //this is a test comment, move on 
 
 
 app.get("/", (req, res) => {
-    res.render('index')
+    res.render('index', { title: "Weather App" })
 })
 
 app.post("/weather", (req, res) => {
@@ -22,4 +23,3 @@ app.post("/weather", (req, res) => {
 })
 
 app.listen(3000, () => { console.log("It's Alive!!!!!") })
-
